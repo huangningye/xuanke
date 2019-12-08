@@ -25,8 +25,10 @@
 
 三、流程图
 
-
+![流程图](https://github.com/huangningye/xuanke/blob/master/%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
 
 四、核心代码
+
+![核心代码](https://github.com/huangningye/xuanke/blob/master/%E6%A0%B8%E5%BF%83%E4%BB%A3%E7%A0%81.png)
 
 五、实验心得
